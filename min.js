@@ -1,0 +1,1 @@
+var Min = function (){};
