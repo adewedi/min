@@ -9,3 +9,4 @@ input{margin:0px 8px 16px 4px;}
 option{padding:4px;}
 textarea{height:256px;}
 input[type='text'],textarea,select,button,input[type='submit']{width:100%;height:32px;padding:4px 8px;margin:0px 0px 16px 0px;box-shadow:0px 0px 1px #4f4f4f;outline:none; }     ;
+input[type='text']:focus,textarea:focus,select:focus{box-shadow:0px 0px 4px #4f4f4f;}
