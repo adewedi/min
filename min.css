@@ -1,6 +1,6 @@
 *{ margin:0px; padding:0px; border:0px; background: #fff; color:#4f4f4f; font-size:14px; font-weight:400; font-family:Arial, Helvetica,sans-serif; line-height:1.61em; box-sizing:border-box;}
 a{text-decoration:none;color:#40f;font-weight:600;text-transform:uppercase;}
-h1{font-size:36px;color:red;}h2{font-size:32px;}h3{font-size:28px;}h4{font-size:24px;}h5{font-size:20px;}h6{font-size:16px;}
+h1{font-size:36px;}h2{font-size:32px;}h3{font-size:28px;}h4{font-size:24px;}h5{font-size:20px;}h6{font-size:16px;}
 h1,h2,h3,h4,h5,h6{padding:8px 0px;text-transform:capitalize;}
 img{display:block;width:100%;}
 b{font-weight:600;}
