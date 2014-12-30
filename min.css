@@ -14,3 +14,4 @@ button,input[type="submit"]{cursor:pointer;font-weight:600;text-transform:upperc
 button:active,input[type="submit"]:active{color:fff;box-shadow:0px 0px 16px #4f4f4f inset;}
 .main{display:table;margin:0px;padding:8px 8%;}
 .left{float:left;}.right{float:right;}
+.clear{clear:both;}
