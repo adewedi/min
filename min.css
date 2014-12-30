@@ -17,3 +17,4 @@ section:after,nav:after{display:table;content:"";clear:both;}
 .main{display:table;margin:0px;padding:8px 8%;}
 .left{float:left;}.right{float:right;}
 .clear{clear:both;}
+.w1{width:100%;} .w2{width:50%;} .w3{width:33.3%;} .w4{width:25%;} .w5{width:20%;}.wl5{width:80%;} .wl4{width:75%;} .wl3{width:66.6%;}
